@@ -20,6 +20,7 @@ SpagoBI
 Orange
 Weka
 Talend Open Studio for Data Integration
+
 我需要开源地址及最新版本号
 
 比较以下的区别：
@@ -51,6 +52,8 @@ Redash: 开源，但有商业化的版本提供额外的功能和支持。
 Jupyter Notebooks: 全部免费且开源。
 RStudio: 全部免费且开源。
 Caravel: 全部免费且开源。
+
+Docker file Superset
 
 ### cube-js <https://github.com/cube-js/cube>
 
